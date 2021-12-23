@@ -1,0 +1,10 @@
+C:\Users\EKİN\Desktop\kod deneme\kod deneme\obj\Debug\kod deneme.csproj.AssemblyReference.cache
+C:\Users\EKİN\Desktop\kod deneme\kod deneme\obj\Debug\kod_deneme.Form1.resources
+C:\Users\EKİN\Desktop\kod deneme\kod deneme\obj\Debug\kod_deneme.Properties.Resources.resources
+C:\Users\EKİN\Desktop\kod deneme\kod deneme\obj\Debug\kod deneme.csproj.GenerateResource.cache
+C:\Users\EKİN\Desktop\kod deneme\kod deneme\obj\Debug\kod deneme.csproj.CoreCompileInputs.cache
+C:\Users\EKİN\Desktop\kod deneme\kod deneme\bin\Debug\kod deneme.exe.config
+C:\Users\EKİN\Desktop\kod deneme\kod deneme\bin\Debug\kod deneme.exe
+C:\Users\EKİN\Desktop\kod deneme\kod deneme\bin\Debug\kod deneme.pdb
+C:\Users\EKİN\Desktop\kod deneme\kod deneme\obj\Debug\kod deneme.exe
+C:\Users\EKİN\Desktop\kod deneme\kod deneme\obj\Debug\kod deneme.pdb
